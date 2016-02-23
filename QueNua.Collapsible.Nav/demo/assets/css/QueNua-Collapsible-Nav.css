@@ -1,0 +1,29 @@
+.collapsible-nav > .panel{
+  border-radius:4px;
+}
+
+.collapsible-nav .panel-title a{
+  text-decoration:none;
+  display:block;
+}
+
+.collapsible-nav .panel-title a .closed{
+  display:none;
+}
+
+.collapsible-nav .panel-title a .opened{
+  display:block;
+}
+
+.collapsible-nav .panel-title a.collapsed .closed{
+  display:block;
+}
+
+.collapsible-nav .panel-title a.collapsed .opened{
+  display:none;
+}
+
+.collapsible-nav .nav-pills > li > a{
+  border-radius:0;
+}
+
