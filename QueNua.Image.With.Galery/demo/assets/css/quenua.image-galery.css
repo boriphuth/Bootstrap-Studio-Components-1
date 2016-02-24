@@ -1,0 +1,24 @@
+.quenua-image-galery{
+  margin:0 0 15px 0;
+}
+
+.quenua-image-galery .thumbnail{
+  padding:0;
+  margin-bottom:0;
+}
+
+.quenua-image-galery img{
+  width:100%;
+}
+
+.quenua-image-galery > ul.thumblails{
+  margin:2px -0.5% 0 -0.5%;
+}
+
+.quenua-image-galery > ul.thumblails > li{
+  display:inline-block;
+  width:24%;
+  margin:0.5%;
+  float:left;
+}
+
